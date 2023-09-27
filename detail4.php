@@ -20,10 +20,10 @@
       /></a>
       <ul class="nav__links">
         <li class="link"><a href="home.php">HOME</a></li>
-        <li class="link"><a href="Shops.php">SHOP</a></li>
-        <li class="link"><a href="Profile.php">ACCOUNT</a></li>
+        <li class="link"><a href="shops.php">SHOP</a></li>
+        <li class="link"><a href="profile.php">ACCOUNT</a></li>
         <!-- <li class="link"><a href="#">BLOG</a></li> -->
-        <li class="link"><a href="login.php">LOGIN</a></li>
+        <li class="link"><a href="logout.php">LOGIN</a></li>
       </ul>
       <div class="nav__icons">
         <span><i class="ri-search-line"></i></span>

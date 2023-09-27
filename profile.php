@@ -24,7 +24,7 @@
         <li class="link"><a href="shops.php">SHOP</a></li>
         <li class="link"><a href="profile.php">ACCOUNT</a></li>
         <!-- <li class="link"><a href="#">BLOG</a></li> -->
-        <li class="link"><a href="login.php">LOGOUT</a></li>
+        <li class="link"><a href="logout.php">LOGOUT</a></li>
       </ul>
       <!-- <div class="nav__icons">
         <span><i class="ri-shield-user-line"></i></span>

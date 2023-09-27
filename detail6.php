@@ -23,7 +23,7 @@
         <li class="link"><a href="shops.php">SHOP</a></li>
         <li class="link"><a href="profile.php">ACCOUNT</a></li>
         <!-- <li class="link"><a href="#">BLOG</a></li> -->
-        <li class="link"><a href="login.php">LOGIN</a></li>
+        <li class="link"><a href="logout.php">LOGIN</a></li>
       </ul>
       <!-- <div class="nav__icons">
         <span><i class="ri-shield-user-line"></i></span>
