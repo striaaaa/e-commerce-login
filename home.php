@@ -28,7 +28,9 @@
       </ul>
       <div class="nav__icons">
         <span><i class="ri-search-line"></i></span>
-        <span><i class="ri-shopping-cart-2-line"></i></span>
+        <a href="shops.php"><span><i class="ri-shopping-cart-2-line"></i></span></a>
+        <a href="profile.php"><span><i class="ri-shield-user-line"></i></span></a>
+
       </div>
     </nav>
 

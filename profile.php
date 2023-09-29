@@ -26,11 +26,12 @@
         <!-- <li class="link"><a href="#">BLOG</a></li> -->
         <li class="link"><a href="logout.php">LOGOUT</a></li>
       </ul>
-      <!-- <div class="nav__icons">
-        <span><i class="ri-shield-user-line"></i></span>
+      <div class="nav__icons">
         <span><i class="ri-search-line"></i></span>
-        <span><i class="ri-shopping-cart-2-line"></i></span>
-      </div> -->
+        <a href="shops.php"><span><i class="ri-shopping-cart-2-line"></i></span></a>
+        <a href="profile.php"><span><i class="ri-shield-user-line"></i></span></a>
+
+      </div>
     </nav>
     <!-- Akhir Navbar -->
 
