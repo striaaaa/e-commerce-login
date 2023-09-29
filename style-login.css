@@ -123,10 +123,16 @@ button {
   font-size: 17px;
   text-align: center;
   margin: auto;
+  color: #009579;
+}
+
+.SIGN:hover {
+  text-decoration: underline;
 }
 
 label {
   color: #009579;
+  font-style: italic;
 }
 
 label:hover {

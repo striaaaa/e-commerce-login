@@ -90,14 +90,14 @@ if (isset($_POST['submitt'])) {
         <form action="" method="POST">
           <input type="text" placeholder="Enter your email" name="email" value="<?php echo $email; ?>" required />
           <input type="password" placeholder="Enter your password" name="password" value="<?php echo $_POST['password']; ?>" required />
-          <div class="signup">
-            <a href="">Forgot Password?</a>
-           
-          </div>
+          <span class="SIGN"
+              >Forgot
+              <label for="check">Password?</label>
+            </span>
             <button name="submit" class="btn" value="Login "><p>Login</p></button> 
-            <span class="SIGN"
+            <span 
               >Already have an account?
-              <label for="check">Signup</label>
+              <label class="sign-pass" for="check">Signup</label>
             </span>
         </form>
       </div>
