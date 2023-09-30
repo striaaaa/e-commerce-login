@@ -157,6 +157,11 @@ header {
   color: var(--white);
 }
 
+.header__content .btn:hover {
+  background-color: white;
+  color: black;
+}
+
 .header__image {
   position: relative;
   padding-left: 280px;
